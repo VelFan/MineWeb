@@ -1,4 +1,4 @@
 # MineWeb
 MineWeb - MineCraft Web Site
-Demo: https://sanyafox.ru/portfolio/mineweb/
+Demo: https://velfan.ru/portfolio/mineweb/
 
