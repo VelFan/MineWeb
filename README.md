@@ -2,5 +2,5 @@
 MineWeb - MineCraft Web Site
 Demo: 
 ![alt text](images/screencapture-velfan-ru-portfolio-mineweb-2020-04-12-04_35_59.png)
-https://mine-web-4862f3hn6-alexvin-dev.vercel.app/
+https://mine-web.vercel.app/
 
